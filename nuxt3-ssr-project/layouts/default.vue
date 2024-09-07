@@ -15,5 +15,6 @@ import Footer from "./Footer.vue";
 <style>
 .full-screen-minus-160 {
   height: calc(100vh - 180px);
+  overflow-y: scroll;
 }
 </style>
